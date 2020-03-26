@@ -1,0 +1,37 @@
+*{
+	font-family: "Lato",Arial,sans-serif;
+}
+body{
+	background: linear-gradient(#eb34db,#eb9b34,#23a6d5,#b734eb);
+	position: relative;
+	background-size: 350% 350%;
+}
+h1{ 
+	margin-top: 50px;
+	margin-left: 625px;
+	background-color: white;
+	color: black;
+	width: 11%;
+	padding-left: 14px;
+	border: 2px solid black;
+	border-radius: 20px;
+	margin-bottom: 100px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+h3{
+	margin-left: 550px;
+	margin-top: 10px;
+	color: white;
+}
+button{
+	margin-left: 100px;
+	border-radius: 20px;
+}
+input{
+	border-radius: 20px;
+}
+select{
+	border-radius: 20px;
+}
